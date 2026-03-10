@@ -1,3 +1,10 @@
+## [1.0.3](https://github.com/Chimaera-Emerald/nodejs-app-test1/compare/v1.0.2...v1.0.3) (2026-03-10)
+
+
+### Bug Fixes
+
+* add repository to renovate config ([2794a35](https://github.com/Chimaera-Emerald/nodejs-app-test1/commit/2794a35351179a237a7155e4fae30f82637af2af))
+
 ## [1.0.2](https://github.com/Chimaera-Emerald/nodejs-app-test1/compare/v1.0.1...v1.0.2) (2026-03-10)
 
 
