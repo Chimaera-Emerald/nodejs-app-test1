@@ -1,3 +1,10 @@
+## [1.0.1](https://github.com/Chimaera-Emerald/nodejs-app-test1/compare/v1.0.0...v1.0.1) (2026-03-10)
+
+
+### Bug Fixes
+
+* correct eslintrc json syntax ([4f353ad](https://github.com/Chimaera-Emerald/nodejs-app-test1/commit/4f353ad5d69e1dea4202a577835daf99a484e41c))
+
 # 1.0.0 (2026-03-10)
 
 
