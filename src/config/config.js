@@ -3,7 +3,7 @@ const path = require('path');
 
 const env = process.env.NODE_ENV || 'dev';
 
-if (env !== 'production') {
+if (env !== 'production' && env !== 'prod') {
   const envFile = `.env.${env}`;
   const result = dotenv.config({ path: path.resolve(__dirname, '..', '..', envFile) });
 
