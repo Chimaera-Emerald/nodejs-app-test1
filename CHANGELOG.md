@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/Chimaera-Emerald/nodejs-app-test1/compare/v1.0.3...v1.1.0) (2026-03-10)
+
+
+### Features
+
+* add docker build and publish workflow ([7a9b006](https://github.com/Chimaera-Emerald/nodejs-app-test1/commit/7a9b00606bd387b069e1ac2e977c03e2ca4a0459))
+
 ## [1.0.3](https://github.com/Chimaera-Emerald/nodejs-app-test1/compare/v1.0.2...v1.0.3) (2026-03-10)
 
 
