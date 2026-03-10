@@ -1,3 +1,10 @@
+## [1.1.1](https://github.com/Chimaera-Emerald/nodejs-app-test1/compare/v1.1.0...v1.1.1) (2026-03-10)
+
+
+### Bug Fixes
+
+* handle prod env without .env file ([008e3cc](https://github.com/Chimaera-Emerald/nodejs-app-test1/commit/008e3cc4f3ebdf2a4cef6fe8f855549980da8388))
+
 # [1.1.0](https://github.com/Chimaera-Emerald/nodejs-app-test1/compare/v1.0.3...v1.1.0) (2026-03-10)
 
 
